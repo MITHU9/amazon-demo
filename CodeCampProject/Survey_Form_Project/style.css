@@ -1,5 +1,7 @@
 body {
-    background-color:rgb(221, 238, 255);
+    background-image:url("bg1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
     box-sizing:border-box;
     font-family:'Poppins'sans-serif;
     font-size: 1rem;
@@ -10,6 +12,7 @@ body {
   h1,p {
      margin:0 auto;
      text-align:center;
+     color: aliceblue;
   }
   .container {
     background-color:#3E3D54;
