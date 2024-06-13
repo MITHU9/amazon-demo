@@ -1,0 +1,50 @@
+body {
+    background-color: #9F9F9F;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+#main {
+    height: 2220px;
+    width: 98%;
+    background-color: #D2D2D2;
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    color: #333333;
+}
+.head {
+    text-align: center;
+}
+h2 {
+    font-size: 2.5rem;
+}
+p {
+    font-size: 1rem;
+}
+#img-div {
+    width: 100%;
+    height: 690px;
+    background-color: #DFDFDF;
+    border-radius: 3px;
+    padding: 5px;
+}
+h3 {
+    text-align: center;
+}
+#tribute-info {
+    width: 98%; 
+}
+ul {
+    max-width: 600px;
+    margin: 0 580px 50px;
+}
+.extra {
+    width: 590px;
+    margin: 0 600px 50px;
+}
+ul > li {
+    padding: 10px;
+}
+span {
+    font-weight: bold;
+}
