@@ -83,6 +83,9 @@ article {
 .refer {
   margin-bottom: 30px;
 }
+span {
+  line-height: 1.8rem;
+}
 @media (max-width: 1199px) and (min-width: 769px) {
   #navbar {
     width: 300px;
